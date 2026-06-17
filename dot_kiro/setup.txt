@@ -1,1 +1,5 @@
 setup do kiro
+
+<projeto>.kiro/skills
+
+para instalar em outros tipos de IDEs de IA, geralmente por padrão as skills ficam na pasta <projeto>.agents/skills
